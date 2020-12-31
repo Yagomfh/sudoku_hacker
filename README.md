@@ -27,6 +27,10 @@ Input format: write each number on the sudoku starting on the top-left corner, l
 This program will control your mouse and keyboard to complete your sudoku. Don't freak out! 
 Also, in this current version, the program was made with a 13-inch MacBook Pro with the setup that you'll see bellow. For those reasons, this program might not work as intended if you do not use the same display and also the same website.
 
+**Example/display:**
+
+![](https://drive.google.com/uc?id=1nhzQoh0WTww-APeIBTXHa_dKbRZuvju_)
+
 ## Author
 
 [Yago Martinez-Falero Hein](https://github.com/Yagomfh)
