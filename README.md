@@ -2,7 +2,7 @@
 
 ## What is it?
 
-This is a parsonal project whose objective is to get introduce to backtracking and mouse/keyboard controlling. To apply these concepts, I decided to create a Sudoku bot that takes an input (the sudoku) and outputs the solution using backtracking and also completes the sudoku on sudoku.com
+This is a parsonal project whose objective is to get introduce to backtracking and mouse/keyboard controlling. To apply these concepts, I decided to create a Sudoku bot that takes an input (the sudoku) and outputs the solution using backtracking and also completes the sudoku on sudoku.com.
 
 ## How to use it?
 
